@@ -34,6 +34,6 @@ It does not continue to `NX Built 2 static remotes`. Press `Ctrl+C` to stop the 
 
 ## Notes
 
-- Nx version: `22.7.4`
+- Nx version: `23.0.0-beta.19`
 - Package manager: `pnpm`
 - Bundler: Rspack
